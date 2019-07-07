@@ -1,0 +1,13 @@
+com\tribukaldero\model\city\City.class
+com\tribukaldero\model\pictures\Picture.class
+com\tribukaldero\service\CityService.class
+com\tribukaldero\service\HotSpotService.class
+com\tribukaldero\MainApplicationClass.class
+com\tribukaldero\model\hotspot\HotSpot.class
+com\tribukaldero\repository\city\CityRepository.class
+com\tribukaldero\controller\v1\PicturesController.class
+com\tribukaldero\repository\hotspot\HotSpotRepository.class
+com\tribukaldero\controller\v1\HotSpotController.class
+com\tribukaldero\controller\v1\CityController.class
+com\tribukaldero\service\PicturesService.class
+com\tribukaldero\repository\pictures\PicturesRepository.class
