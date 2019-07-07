@@ -1,2 +1,2 @@
 # wasp-api
-dotnet core api
+Java Spring 
