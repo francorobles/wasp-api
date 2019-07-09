@@ -26,6 +26,9 @@ public class City {
     @Column(name = "date_updated")
     private LocalDateTime dateUpdated;
 
+    @Column(name = "details")
+    private String details;
+
     public Integer getId() {
         return this.id;
     }
@@ -72,5 +75,13 @@ public class City {
 
     public void setDateUpdated(LocalDateTime dateUpdated) {
         this.dateUpdated = dateUpdated;
+    }
+
+    public String getDetails() {
+        return this.name;
+    }
+
+    public void setDetails(String details) {
+        this.name = details;
     }
 }
